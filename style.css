@@ -1,0 +1,12 @@
+p {
+	color: red;
+	background-color: yellow;
+	width: 900px;
+	height: 100px;
+	text-align: center;
+	margin:50px 50px;
+}
+span {
+	color: red;
+	background-color: green;
+}
